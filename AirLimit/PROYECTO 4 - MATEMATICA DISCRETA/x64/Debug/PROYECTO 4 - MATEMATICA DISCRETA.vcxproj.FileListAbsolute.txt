@@ -1,0 +1,2 @@
+C:\Users\ARIANA\OneDrive - Universidad Peruana de Ciencias\Desktop\Mate Discreta\PROYECTO 4 - MATEMATICA DISCRETA\PROYECTO 4 - MATEMATICA DISCRETA\x64\Debug\PROYECTO 4 - MATEMATICA DISCRETA.vcxproj.AssemblyReference.cache
+C:\Users\ARIANA\OneDrive - Universidad Peruana de Ciencias\Desktop\Mate Discreta\PROYECTO 4 - MATEMATICA DISCRETA\PROYECTO 4 - MATEMATICA DISCRETA\x64\Debug\PROYECTO 4 - MATEMATICA DISCRETA.vcxproj.SuggestedBindingRedirects.cache
